@@ -1,1 +1,15 @@
 # netflixAnalysis_withPython
+- In what language most of the long runtime movies have been filmed? Visualize the results.
+- Visualize the IMDB scores of the 'Docementary' movies that filmed between January, 2019 and June, 2020.
+- Which movie genre the film with the highest IMDB score has been filmed in English?
+- What is the average runtime value of films filmed in 'Hindi'?
+- How many categories are there in Genre column? Visualize.
+- Find 3 most commonly used languages in dataset.
+- Find 10 films with highest IMDB score.
+- What is the correlation between IMDB score and Runtime? Visualize.
+- What are the 10 Genre with the highest IMDB score?
+- List 10 movies with longest 'Runtime' and visualize.
+- In which year the number of movies filmed is the highest? Visualize the results.
+- Which movies have the lowest IMDB scores and in what languages they have been filmed? Visualize.
+- Which year has the highest total runtime?
+- Are there any outliers in the dataset? Identify.
